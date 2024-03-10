@@ -1,4 +1,12 @@
 { "compressionlevel":1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"hills.tmj"
+        }
+    },
  "height":49,
  "infinite":false,
  "layers":[
@@ -407,6 +415,18 @@
                  "width":0,
                  "x":2264,
                  "y":328
+                }, 
+                {
+                 "gid":2,
+                 "height":20,
+                 "id":30,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":20,
+                 "x":2006,
+                 "y":294
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -486,7 +506,7 @@
          "y":0
         }],
  "nextlayerid":6,
- "nextobjectid":30,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
