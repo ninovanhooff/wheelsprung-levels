@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"hills.tmj"
+         "target":"..\/..\/..\/..\/Developer\/PlaydateSDK\/Disk\/Data\/com.ninovanhooff.wheelsprung\/levels\/hills.tmj"
         }
     },
  "height":49,
@@ -427,6 +427,30 @@
                  "width":20,
                  "x":2006,
                  "y":294
+                }, 
+                {
+                 "gid":2,
+                 "height":20,
+                 "id":31,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":20,
+                 "x":1964,
+                 "y":274
+                }, 
+                {
+                 "gid":2,
+                 "height":20,
+                 "id":32,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":20,
+                 "x":1928,
+                 "y":238
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -506,7 +530,7 @@
          "y":0
         }],
  "nextlayerid":6,
- "nextobjectid":31,
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
