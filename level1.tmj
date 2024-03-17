@@ -199,15 +199,15 @@
          "name":"playerLayer",
          "objects":[
                 {
-                 "gid":2147483649,
+                 "gid":1,
                  "height":60,
-                 "id":22,
+                 "id":42,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":66,
-                 "x":225,
+                 "x":224,
                  "y":170
                 }],
          "opacity":1,
@@ -217,7 +217,7 @@
          "y":0
         }],
  "nextlayerid":8,
- "nextobjectid":42,
+ "nextobjectid":43,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
@@ -225,7 +225,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/..\/..\/..\/PlaydateProjects\/wheelsprung\/support\/editor\/game_objects.tsx"
+         "source":"..\/..\/support\/editor\/game_objects.tsx"
         }],
  "tilewidth":8,
  "type":"map",
