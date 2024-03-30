@@ -7,7 +7,7 @@
          "target":"..\/..\/..\/..\/Developer\/PlaydateSDK\/Disk\/Data\/com.ninovanhooff.wheelsprung\/levels\/hills.tmj"
         }
     },
- "height":49,
+ "height":20,
  "infinite":false,
  "layers":[
         {
@@ -129,8 +129,8 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":1,
-                 "y":376
+                 "x":0,
+                 "y":384
                 }, 
                 {
                  "height":0,
@@ -225,8 +225,8 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":1144,
-                 "y":328
+                 "x":1143,
+                 "y":336
                 }, 
                 {
                  "gid":3,
@@ -237,8 +237,8 @@
                  "type":"",
                  "visible":true,
                  "width":20,
-                 "x":1668,
-                 "y":244
+                 "x":1667,
+                 "y":252
                 }, 
                 {
                  "gid":3,
@@ -249,8 +249,8 @@
                  "type":"",
                  "visible":true,
                  "width":20,
-                 "x":1696,
-                 "y":244
+                 "x":1695,
+                 "y":252
                 }, 
                 {
                  "gid":3,
@@ -261,8 +261,8 @@
                  "type":"",
                  "visible":true,
                  "width":20,
-                 "x":1724,
-                 "y":244
+                 "x":1723,
+                 "y":252
                 }, 
                 {
                  "height":0,
@@ -302,11 +302,11 @@
                          "y":48
                         }, 
                         {
-                         "x":616,
+                         "x":617,
                          "y":48
                         }, 
                         {
-                         "x":616,
+                         "x":617,
                          "y":64
                         }, 
                         {
@@ -317,8 +317,8 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":2264,
-                 "y":328
+                 "x":2263,
+                 "y":336
                 }, 
                 {
                  "height":0,
@@ -413,8 +413,8 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":2264,
-                 "y":328
+                 "x":2263,
+                 "y":336
                 }, 
                 {
                  "gid":5,
@@ -425,8 +425,8 @@
                  "type":"",
                  "visible":true,
                  "width":20,
-                 "x":1696,
-                 "y":140
+                 "x":1695,
+                 "y":148
                 }, 
                 {
                  "gid":2,
@@ -437,8 +437,20 @@
                  "type":"",
                  "visible":true,
                  "width":20,
-                 "x":108,
-                 "y":354
+                 "x":700,
+                 "y":240
+                }, 
+                {
+                 "gid":2,
+                 "height":20,
+                 "id":42,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":20,
+                 "x":140,
+                 "y":360
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -460,8 +472,8 @@
                  "type":"",
                  "visible":true,
                  "width":66,
-                 "x":2,
-                 "y":312
+                 "x":0,
+                 "y":324
                 }, 
                 {
                  "gid":4,
@@ -472,8 +484,8 @@
                  "type":"",
                  "visible":true,
                  "width":38,
-                 "x":2830,
-                 "y":332
+                 "x":2829,
+                 "y":340
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -482,18 +494,18 @@
          "y":0
         }],
  "nextlayerid":6,
- "nextobjectid":40,
+ "nextobjectid":43,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
- "tileheight":8,
+ "tileheight":20,
  "tilesets":[
         {
          "firstgid":1,
          "source":"..\/..\/support\/editor\/game_objects.tsx"
         }],
- "tilewidth":8,
+ "tilewidth":20,
  "type":"map",
  "version":"1.10",
- "width":360
+ "width":144
 }
