@@ -7,7 +7,7 @@
          "target":"..\/..\/..\/..\/Developer\/PlaydateSDK\/Disk\/Data\/com.ninovanhooff.wheelsprung\/levels\/editor.tmj"
         }
     },
- "height":105,
+ "height":43,
  "infinite":false,
  "layers":[
         {
@@ -261,46 +261,6 @@
                  "y":724
                 }, 
                 {
-                 "height":0,
-                 "id":51,
-                 "name":"",
-                 "polygon":[
-                        {
-                         "x":0,
-                         "y":0
-                        }, 
-                        {
-                         "x":16,
-                         "y":-16
-                        }, 
-                        {
-                         "x":16,
-                         "y":-8
-                        }, 
-                        {
-                         "x":40,
-                         "y":-8
-                        }, 
-                        {
-                         "x":40,
-                         "y":8
-                        }, 
-                        {
-                         "x":16,
-                         "y":8
-                        }, 
-                        {
-                         "x":16,
-                         "y":16
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":1552,
-                 "y":520
-                }, 
-                {
                  "gid":3,
                  "height":20,
                  "id":52,
@@ -376,6 +336,10 @@
                          "y":0
                         }, 
                         {
+                         "x":-68,
+                         "y":0
+                        }, 
+                        {
                          "x":-296,
                          "y":8
                         }, 
@@ -390,6 +354,10 @@
                         {
                          "x":-296,
                          "y":16
+                        }, 
+                        {
+                         "x":-68,
+                         "y":8
                         }, 
                         {
                          "x":0,
@@ -497,6 +465,18 @@
                  "width":66,
                  "x":15,
                  "y":267
+                }, 
+                {
+                 "gid":6,
+                 "height":48,
+                 "id":58,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":48,
+                 "x":1680,
+                 "y":424
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -623,18 +603,18 @@
          "y":0
         }],
  "nextlayerid":8,
- "nextobjectid":58,
+ "nextobjectid":59,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
- "tileheight":8,
+ "tileheight":20,
  "tilesets":[
         {
          "firstgid":1,
          "source":"..\/..\/support\/editor\/game_objects.tsx"
         }],
- "tilewidth":8,
+ "tilewidth":20,
  "type":"map",
  "version":"1.10",
- "width":221
+ "width":92
 }
