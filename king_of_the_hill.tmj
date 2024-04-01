@@ -104,7 +104,7 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":560,
+                 "x":600,
                  "y":620
                 }, 
                 {
@@ -196,7 +196,7 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":560,
+                 "x":600,
                  "y":620
                 }, 
                 {
@@ -207,7 +207,7 @@
                  "type":"",
                  "visible":true,
                  "width":20,
-                 "x":900,
+                 "x":940,
                  "y":280
                 }, 
                 {
@@ -231,7 +231,7 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":380,
+                 "x":420,
                  "y":360
                 }, 
                 {
@@ -263,7 +263,7 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":220,
+                 "x":260,
                  "y":380
                 }, 
                 {
@@ -291,7 +291,7 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":920,
+                 "x":960,
                  "y":280
                 }, 
                 {
@@ -301,7 +301,7 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":200,
+                 "width":240,
                  "x":0,
                  "y":380
                 }],
@@ -325,7 +325,7 @@
                  "type":"",
                  "visible":true,
                  "width":560,
-                 "x":460,
+                 "x":500,
                  "y":132
                 }],
          "opacity":1,
@@ -348,7 +348,7 @@
                  "type":"",
                  "visible":true,
                  "width":20,
-                 "x":320,
+                 "x":360,
                  "y":336
                 }, 
                 {
@@ -360,7 +360,7 @@
                  "type":"",
                  "visible":true,
                  "width":20,
-                 "x":780,
+                 "x":820,
                  "y":336
                 }, 
                 {
@@ -372,7 +372,7 @@
                  "type":"",
                  "visible":true,
                  "width":38,
-                 "x":40,
+                 "x":80,
                  "y":328
                 }, 
                 {
@@ -384,7 +384,7 @@
                  "type":"",
                  "visible":true,
                  "width":66,
-                 "x":528,
+                 "x":568,
                  "y":560
                 }, 
                 {
@@ -396,7 +396,7 @@
                  "type":"",
                  "visible":true,
                  "width":48,
-                 "x":108,
+                 "x":0,
                  "y":320
                 }],
          "opacity":1,
@@ -419,5 +419,5 @@
  "tilewidth":20,
  "type":"map",
  "version":"1.10",
- "width":46
+ "width":48
 }
