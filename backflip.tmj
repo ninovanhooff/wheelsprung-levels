@@ -17,16 +17,28 @@
          "name":"jumps",
          "objects":[
                 {
-                 "gid":6,
-                 "height":48,
-                 "id":31,
+                 "gid":5,
+                 "height":20,
+                 "id":34,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":20,
+                 "x":624,
+                 "y":216
+                }, 
+                {
+                 "gid":7,
+                 "height":72,
+                 "id":36,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":48,
-                 "x":90,
-                 "y":190
+                 "x":792,
+                 "y":168
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -58,7 +70,7 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":919,
+                 "width":980,
                  "x":0,
                  "y":240
                 }],
@@ -184,7 +196,7 @@
          "y":0
         }],
  "nextlayerid":6,
- "nextobjectid":32,
+ "nextobjectid":37,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
@@ -197,5 +209,5 @@
  "tilewidth":20,
  "type":"map",
  "version":"1.10",
- "width":40
+ "width":44
 }
