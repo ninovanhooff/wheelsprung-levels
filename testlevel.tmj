@@ -139,9 +139,9 @@
                  "y":120
                 }, 
                 {
-                 "gid":11,
+                 "gid":8,
                  "height":40,
-                 "id":41,
+                 "id":45,
                  "name":"",
                  "rotation":0,
                  "type":"",
@@ -157,7 +157,7 @@
          "y":0
         }],
  "nextlayerid":6,
- "nextobjectid":42,
+ "nextobjectid":46,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
