@@ -21,7 +21,7 @@
                  "name":"",
                  "rotation":0,
                  "type":"",
-                 "visible":true,
+                 "visible":false,
                  "width":400,
                  "x":0,
                  "y":0
@@ -143,6 +143,13 @@
                          "x":0,
                          "y":120
                         }],
+                 "properties":[
+                        {
+                         "name":"fill",
+                         "propertytype":"Fill",
+                         "type":"string",
+                         "value":"black"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -218,6 +225,13 @@
                         {
                          "x":0,
                          "y":120
+                        }],
+                 "properties":[
+                        {
+                         "name":"fill",
+                         "propertytype":"Fill",
+                         "type":"string",
+                         "value":"black"
                         }],
                  "rotation":0,
                  "type":"",
@@ -295,6 +309,13 @@
                          "x":0,
                          "y":-120
                         }],
+                 "properties":[
+                        {
+                         "name":"fill",
+                         "propertytype":"Fill",
+                         "type":"string",
+                         "value":"grid4"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -370,6 +391,13 @@
                         {
                          "x":0,
                          "y":-120
+                        }],
+                 "properties":[
+                        {
+                         "name":"fill",
+                         "propertytype":"Fill",
+                         "type":"string",
+                         "value":"grid4"
                         }],
                  "rotation":0,
                  "type":"",
