@@ -120,11 +120,11 @@
                          "y":0
                         }, 
                         {
-                         "x":-80,
+                         "x":-290,
                          "y":0
                         }, 
                         {
-                         "x":-80,
+                         "x":-290,
                          "y":20
                         }, 
                         {
@@ -135,7 +135,7 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":100,
+                 "x":310,
                  "y":140
                 }, 
                 {
@@ -147,7 +147,7 @@
                  "type":"",
                  "visible":true,
                  "width":40,
-                 "x":100,
+                 "x":202,
                  "y":100
                 }, 
                 {
@@ -155,12 +155,18 @@
                  "height":20,
                  "id":46,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"count",
+                         "type":"int",
+                         "value":4
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":20,
-                 "x":232,
-                 "y":48
+                 "x":112,
+                 "y":114
                 }],
          "opacity":1,
          "type":"objectgroup",
