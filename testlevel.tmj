@@ -92,7 +92,7 @@
                  "name":"NinoPolyTriangle",
                  "polygon":[
                         {
-                         "x":0,
+                         "x":40,
                          "y":0
                         }, 
                         {
@@ -100,7 +100,7 @@
                          "y":-20
                         }, 
                         {
-                         "x":40,
+                         "x":0,
                          "y":0
                         }],
                  "rotation":0,
