@@ -399,7 +399,7 @@
                          "value":"grid4"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"TerrainPolygon",
                  "visible":true,
                  "width":0,
                  "x":40,
@@ -482,7 +482,7 @@
                          "value":"grid4"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"TerrainPolygon",
                  "visible":true,
                  "width":0,
                  "x":360,
