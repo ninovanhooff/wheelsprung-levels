@@ -52,7 +52,7 @@
          "name":"terrain",
          "objects":[
                 {
-                 "gid":2147483649,
+                 "gid":1,
                  "height":60,
                  "id":2,
                  "name":"",
@@ -60,7 +60,7 @@
                  "type":"",
                  "visible":true,
                  "width":66,
-                 "x":490,
+                 "x":90,
                  "y":160
                 }, 
                 {
@@ -72,7 +72,7 @@
                  "type":"",
                  "visible":true,
                  "width":38,
-                 "x":600,
+                 "x":640,
                  "y":180
                 }, 
                 {
@@ -82,8 +82,8 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":120,
-                 "x":100,
+                 "width":135,
+                 "x":125,
                  "y":100
                 }, 
                 {
@@ -96,11 +96,11 @@
                          "y":0
                         }, 
                         {
-                         "x":-720,
+                         "x":-750,
                          "y":0
                         }, 
                         {
-                         "x":-720,
+                         "x":-750,
                          "y":20
                         }, 
                         {
@@ -111,7 +111,7 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":740,
+                 "x":780,
                  "y":220
                 }, 
                 {
@@ -129,7 +129,7 @@
                  "type":"",
                  "visible":true,
                  "width":20,
-                 "x":150,
+                 "x":190,
                  "y":75
                 }, 
                 {
@@ -146,7 +146,7 @@
                  "type":"",
                  "visible":true,
                  "width":215,
-                 "x":265,
+                 "x":305,
                  "y":250
                 }, 
                 {
@@ -163,14 +163,14 @@
                          "y":-25
                         }, 
                         {
-                         "x":-20,
+                         "x":-25,
                          "y":0
                         }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":370,
+                 "x":410,
                  "y":220
                 }, 
                 {
@@ -187,14 +187,14 @@
                          "y":-10
                         }, 
                         {
-                         "x":-10,
+                         "x":-20,
                          "y":0
                         }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":285,
+                 "x":325,
                  "y":220
                 }, 
                 {
@@ -206,8 +206,40 @@
                  "type":"",
                  "visible":true,
                  "width":48,
-                 "x":660,
+                 "x":700,
                  "y":172
+                }, 
+                {
+                 "height":180,
+                 "id":61,
+                 "name":"",
+                 "polygon":[
+                        {
+                         "x":0,
+                         "y":160
+                        }, 
+                        {
+                         "x":0,
+                         "y":180
+                        }, 
+                        {
+                         "x":20,
+                         "y":180
+                        }, 
+                        {
+                         "x":20,
+                         "y":-20
+                        }, 
+                        {
+                         "x":0,
+                         "y":-20
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":20,
+                 "x":780,
+                 "y":60
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -228,7 +260,7 @@
                  "type":"PhysicsPolygon",
                  "visible":true,
                  "width":140,
-                 "x":285,
+                 "x":325,
                  "y":190
                 }],
          "opacity":1,
@@ -238,7 +270,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":61,
+ "nextobjectid":62,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
@@ -251,5 +283,5 @@
  "tilewidth":20,
  "type":"map",
  "version":"1.10",
- "width":36
+ "width":40
 }
