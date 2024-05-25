@@ -156,13 +156,13 @@
                  "text":
                     {
                      "pixelsize":20,
-                     "text":"To turn around, press \u2b07",
+                     "text":"White objects can be moved",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":215,
-                 "x":359,
+                 "width":249,
+                 "x":350,
                  "y":250
                 }, 
                 {
