@@ -182,15 +182,61 @@
                  "rotation":0,
                  "text":
                     {
+                     "halign":"center",
                      "pixelsize":20,
-                     "text":"To turn around, press \u2b07",
+                     "text":"To turn around\npress \u2b07",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":125,
+                 "width":200,
                  "x":20,
                  "y":180
+                }, 
+                {
+                 "gid":3221225478,
+                 "height":48,
+                 "id":51,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":48,
+                 "x":245,
+                 "y":161
+                }, 
+                {
+                 "height":19,
+                 "id":52,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hello World",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":110,
+                 "x":280,
+                 "y":25
+                }, 
+                {
+                 "height":19,
+                 "id":53,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "halign":"right",
+                     "text":"Hello World",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":90,
+                 "x":10,
+                 "y":20
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -221,7 +267,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":51,
+ "nextobjectid":54,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
