@@ -411,18 +411,6 @@
                  "width":20,
                  "x":240,
                  "y":350
-                }, 
-                {
-                 "ellipse":true,
-                 "height":170,
-                 "id":83,
-                 "name":"",
-                 "rotation":0,
-                 "type":"DynamicObject",
-                 "visible":true,
-                 "width":170,
-                 "x":260,
-                 "y":260
                 }],
          "opacity":1,
          "type":"objectgroup",
