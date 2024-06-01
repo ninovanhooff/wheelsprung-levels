@@ -316,7 +316,7 @@
                  "id":53,
                  "name":"rectRect",
                  "rotation":0,
-                 "type":"PhysicsPolygon",
+                 "type":"DynamicObject",
                  "visible":true,
                  "width":145,
                  "x":360,
