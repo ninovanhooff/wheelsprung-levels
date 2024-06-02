@@ -406,9 +406,14 @@
                  "name":"vault_door",
                  "properties":[
                         {
+                         "name":"friction",
+                         "type":"float",
+                         "value":0.1
+                        }, 
+                        {
                          "name":"massMultiplier",
                          "type":"float",
-                         "value":5
+                         "value":2.5
                         }],
                  "rotation":0,
                  "type":"DynamicObject",
@@ -426,7 +431,7 @@
                         {
                          "name":"massMultiplier",
                          "type":"float",
-                         "value":5
+                         "value":2.5
                         }],
                  "rotation":0,
                  "type":"DynamicObject",
