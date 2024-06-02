@@ -184,7 +184,7 @@
                  "visible":true,
                  "width":135,
                  "x":305,
-                 "y":240
+                 "y":220
                 }, 
                 {
                  "height":0,
@@ -223,15 +223,36 @@
                  "y":25
                 }, 
                 {
-                 "height":120,
+                 "height":140,
                  "id":85,
                  "name":"",
+                 "polygon":[
+                        {
+                         "x":0,
+                         "y":80
+                        }, 
+                        {
+                         "x":0,
+                         "y":140
+                        }, 
+                        {
+                         "x":20,
+                         "y":140
+                        }, 
+                        {
+                         "x":20,
+                         "y":0
+                        }, 
+                        {
+                         "x":0,
+                         "y":0
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":20,
                  "x":440,
-                 "y":240
+                 "y":220
                 }, 
                 {
                  "gid":4,
@@ -242,8 +263,8 @@
                  "type":"",
                  "visible":true,
                  "width":38,
-                 "x":400,
-                 "y":300
+                 "x":350,
+                 "y":270
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -269,9 +290,9 @@
                  "rotation":90,
                  "type":"DynamicObject",
                  "visible":true,
-                 "width":100,
+                 "width":120,
                  "x":305,
-                 "y":240
+                 "y":219
                 }],
          "opacity":1,
          "type":"objectgroup",

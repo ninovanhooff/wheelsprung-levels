@@ -364,6 +364,30 @@
                  "width":8,
                  "x":385,
                  "y":220
+                }, 
+                {
+                 "height":0,
+                 "id":97,
+                 "name":"",
+                 "polygon":[
+                        {
+                         "x":15,
+                         "y":0
+                        }, 
+                        {
+                         "x":5,
+                         "y":-10
+                        }, 
+                        {
+                         "x":0,
+                         "y":0
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":360,
+                 "y":360
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -418,7 +442,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":96,
+ "nextobjectid":98,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
