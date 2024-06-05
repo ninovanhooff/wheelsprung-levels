@@ -243,9 +243,37 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":8,
+         "name":"TextLayer",
+         "objects":[
+                {
+                 "height":19,
+                 "id":47,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "halign":"center",
+                     "text":"Press \u2b07\ufe0f to turn around",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":200,
+                 "x":597,
+                 "y":116
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":8,
- "nextobjectid":47,
+ "nextlayerid":9,
+ "nextobjectid":49,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
