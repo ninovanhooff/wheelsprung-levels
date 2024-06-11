@@ -82,7 +82,7 @@
                  "type":"",
                  "visible":true,
                  "width":38,
-                 "x":741,
+                 "x":800,
                  "y":115
                 }, 
                 {
@@ -95,24 +95,28 @@
                          "y":125
                         }, 
                         {
-                         "x":890,
+                         "x":935,
                          "y":125
                         }, 
                         {
-                         "x":890,
+                         "x":935,
                          "y":10
                         }, 
                         {
-                         "x":625,
+                         "x":650,
                          "y":10
                         }, 
                         {
-                         "x":550,
+                         "x":580,
                          "y":20
                         }, 
                         {
-                         "x":520,
+                         "x":535,
                          "y":35
+                        }, 
+                        {
+                         "x":495,
+                         "y":55
                         }, 
                         {
                          "x":480,
@@ -194,8 +198,20 @@
                  "type":"",
                  "visible":true,
                  "width":48,
-                 "x":811,
+                 "x":870,
                  "y":88
+                }, 
+                {
+                 "gid":5,
+                 "height":20,
+                 "id":112,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":20,
+                 "x":335,
+                 "y":35
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -215,7 +231,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":112,
+ "nextobjectid":113,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
@@ -228,5 +244,5 @@
  "tilewidth":20,
  "type":"map",
  "version":"1.10",
- "width":44
+ "width":47
 }
