@@ -391,7 +391,7 @@
                  "text":
                     {
                      "halign":"center",
-                     "text":"Touch this to change Gravity",
+                     "text":"Touch to change Gravity",
                      "wrap":true
                     },
                  "type":"",
