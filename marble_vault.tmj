@@ -14,7 +14,18 @@
          "draworder":"topdown",
          "id":5,
          "name":"helpers",
-         "objects":[],
+         "objects":[
+                {
+                 "height":175,
+                 "id":101,
+                 "name":"viewport",
+                 "rotation":0,
+                 "type":"Reference",
+                 "visible":true,
+                 "width":280,
+                 "x":115,
+                 "y":50
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -272,11 +283,11 @@
                          "y":20
                         }, 
                         {
-                         "x":16,
+                         "x":45,
                          "y":20
                         }, 
                         {
-                         "x":16,
+                         "x":45,
                          "y":0
                         }],
                  "rotation":0,
@@ -400,6 +411,17 @@
                  "width":20,
                  "x":535,
                  "y":155
+                }, 
+                {
+                 "height":20,
+                 "id":100,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":20,
+                 "x":260,
+                 "y":20
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -459,7 +481,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":99,
+ "nextobjectid":102,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
