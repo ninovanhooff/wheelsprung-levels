@@ -25,6 +25,23 @@
                  "width":280,
                  "x":115,
                  "y":50
+                }, 
+                {
+                 "height":19,
+                 "id":102,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "halign":"center",
+                     "text":"White objects can be moved",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":300,
+                 "x":125,
+                 "y":125
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -481,7 +498,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":102,
+ "nextobjectid":103,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",

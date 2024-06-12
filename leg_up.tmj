@@ -149,23 +149,6 @@
                  "y":85
                 }, 
                 {
-                 "height":30,
-                 "id":47,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "pixelsize":20,
-                     "text":"White objects can be moved",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":249,
-                 "x":350,
-                 "y":250
-                }, 
-                {
                  "height":0,
                  "id":52,
                  "name":"",
