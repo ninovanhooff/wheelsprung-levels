@@ -93,74 +93,6 @@
                  "y":200
                 }, 
                 {
-                 "height":20,
-                 "id":74,
-                 "name":"",
-                 "polygon":[
-                        {
-                         "x":0,
-                         "y":20
-                        }, 
-                        {
-                         "x":240,
-                         "y":20
-                        }, 
-                        {
-                         "x":240,
-                         "y":0
-                        }, 
-                        {
-                         "x":120,
-                         "y":0
-                        }, 
-                        {
-                         "x":0,
-                         "y":0
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":240,
-                 "x":660,
-                 "y":380
-                }, 
-                {
-                 "height":0,
-                 "id":91,
-                 "name":"",
-                 "polygon":[
-                        {
-                         "x":0,
-                         "y":25
-                        }, 
-                        {
-                         "x":60,
-                         "y":25
-                        }, 
-                        {
-                         "x":60,
-                         "y":-175
-                        }, 
-                        {
-                         "x":40,
-                         "y":-175
-                        }, 
-                        {
-                         "x":40,
-                         "y":-35
-                        }, 
-                        {
-                         "x":0,
-                         "y":5
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":900,
-                 "y":375
-                }, 
-                {
                  "height":0,
                  "id":92,
                  "name":"",
@@ -309,6 +241,74 @@
                  "width":20,
                  "x":80,
                  "y":200
+                }, 
+                {
+                 "height":0,
+                 "id":111,
+                 "name":"",
+                 "polygon":[
+                        {
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "x":0,
+                         "y":20
+                        }, 
+                        {
+                         "x":240,
+                         "y":20
+                        }, 
+                        {
+                         "x":240,
+                         "y":0
+                        }, 
+                        {
+                         "x":120,
+                         "y":0
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":660,
+                 "y":380
+                }, 
+                {
+                 "height":0,
+                 "id":112,
+                 "name":"",
+                 "polygon":[
+                        {
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "x":0,
+                         "y":20
+                        }, 
+                        {
+                         "x":60,
+                         "y":20
+                        }, 
+                        {
+                         "x":60,
+                         "y":-180
+                        }, 
+                        {
+                         "x":40,
+                         "y":-180
+                        }, 
+                        {
+                         "x":40,
+                         "y":-40
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":900,
+                 "y":380
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -505,7 +505,7 @@
          "y":0
         }],
  "nextlayerid":8,
- "nextobjectid":108,
+ "nextobjectid":113,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
