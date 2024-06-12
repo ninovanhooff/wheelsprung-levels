@@ -322,18 +322,6 @@
          "name":"objects",
          "objects":[
                 {
-                 "gid":2,
-                 "height":20,
-                 "id":86,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":20,
-                 "x":590,
-                 "y":230
-                }, 
-                {
                  "gid":1,
                  "height":60,
                  "id":2,
@@ -356,18 +344,6 @@
                  "width":38,
                  "x":265,
                  "y":45
-                }, 
-                {
-                 "gid":3,
-                 "height":20,
-                 "id":69,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":20,
-                 "x":595,
-                 "y":350
                 }, 
                 {
                  "gid":8,
