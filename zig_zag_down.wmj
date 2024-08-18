@@ -44,8 +44,8 @@
                  "name":"",
                  "polyline":[
                         {
-                         "x":0,
-                         "y":0
+                         "x":-50,
+                         "y":-15
                         }, 
                         {
                          "x":105,
@@ -230,28 +230,8 @@
                  "type":"",
                  "visible":true,
                  "width":66,
-                 "x":45,
-                 "y":15
-                }, 
-                {
-                 "height":0,
-                 "id":167,
-                 "name":"",
-                 "polyline":[
-                        {
-                         "x":0,
-                         "y":0
-                        }, 
-                        {
-                         "x":225,
-                         "y":0
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":35,
-                 "y":80
+                 "x":210,
+                 "y":5
                 }],
          "opacity":1,
          "type":"objectgroup",
