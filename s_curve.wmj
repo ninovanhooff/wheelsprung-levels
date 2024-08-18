@@ -6,12 +6,13 @@
          "format":"json"
         }
     },
- "height":28,
+ "height":32,
  "infinite":false,
  "layers":[
         {
          "draworder":"topdown",
          "id":7,
+         "locked":true,
          "name":"Locked",
          "objects":[
                 {
@@ -22,8 +23,8 @@
                  "type":"Reference",
                  "visible":true,
                  "width":400,
-                 "x":281,
-                 "y":354
+                 "x":381,
+                 "y":434
                 }, 
                 {
                  "ellipse":true,
@@ -34,8 +35,8 @@
                  "type":"",
                  "visible":true,
                  "width":675,
-                 "x":191,
-                 "y":254
+                 "x":291,
+                 "y":334
                 }, 
                 {
                  "ellipse":true,
@@ -46,8 +47,8 @@
                  "type":"",
                  "visible":true,
                  "width":675,
-                 "x":841,
-                 "y":334
+                 "x":941,
+                 "y":414
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -70,8 +71,8 @@
                  "type":"",
                  "visible":true,
                  "width":38,
-                 "x":1267,
-                 "y":197
+                 "x":1385,
+                 "y":277
                 }, 
                 {
                  "height":0,
@@ -162,8 +163,8 @@
                  "type":"Polyline",
                  "visible":true,
                  "width":0,
-                 "x":537,
-                 "y":549
+                 "x":637,
+                 "y":629
                 }, 
                 {
                  "height":0,
@@ -262,8 +263,8 @@
                  "type":"Polyline",
                  "visible":true,
                  "width":0,
-                 "x":1200,
-                 "y":240
+                 "x":1300,
+                 "y":320
                 }, 
                 {
                  "height":0,
@@ -271,8 +272,8 @@
                  "name":"",
                  "polyline":[
                         {
-                         "x":-537,
-                         "y":-509
+                         "x":-540,
+                         "y":-629
                         }, 
                         {
                          "x":-534,
@@ -349,13 +350,17 @@
                         {
                          "x":0,
                          "y":0
+                        }, 
+                        {
+                         "x":97,
+                         "y":0
                         }],
                  "rotation":0,
                  "type":"Polyline",
                  "visible":true,
                  "width":0,
-                 "x":537,
-                 "y":549
+                 "x":540,
+                 "y":629
                 }, 
                 {
                  "height":0,
@@ -374,8 +379,8 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":1200,
-                 "y":240
+                 "x":1300,
+                 "y":320
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -397,8 +402,32 @@
                  "type":"",
                  "visible":true,
                  "width":66,
-                 "x":511,
-                 "y":488
+                 "x":528,
+                 "y":569
+                }, 
+                {
+                 "gid":6,
+                 "height":48,
+                 "id":133,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":48,
+                 "x":625,
+                 "y":581
+                }, 
+                {
+                 "gid":7,
+                 "height":72,
+                 "id":135,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":48,
+                 "x":1291,
+                 "y":248
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -407,10 +436,10 @@
          "y":0
         }],
  "nextlayerid":8,
- "nextobjectid":133,
+ "nextobjectid":136,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.0",
  "tileheight":20,
  "tilesets":[
         {
@@ -420,5 +449,5 @@
  "tilewidth":20,
  "type":"map",
  "version":"1.10",
- "width":67
+ "width":72
 }
