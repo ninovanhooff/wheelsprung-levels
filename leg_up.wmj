@@ -84,7 +84,7 @@
                  "visible":true,
                  "width":145,
                  "x":120,
-                 "y":110
+                 "y":120
                 }, 
                 {
                  "height":0,
@@ -146,7 +146,7 @@
                  "visible":true,
                  "width":20,
                  "x":195,
-                 "y":85
+                 "y":95
                 }, 
                 {
                  "height":0,
@@ -293,7 +293,7 @@
                  "visible":true,
                  "width":20,
                  "x":190,
-                 "y":0
+                 "y":10
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -310,10 +310,16 @@
                  "height":5,
                  "id":53,
                  "name":"rectRect",
+                 "properties":[
+                        {
+                         "name":"massMultiplier",
+                         "type":"float",
+                         "value":1.2
+                        }],
                  "rotation":0,
                  "type":"DynamicObject",
                  "visible":true,
-                 "width":145,
+                 "width":140,
                  "x":360,
                  "y":190
                 }],
@@ -327,7 +333,7 @@
  "nextobjectid":68,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.0",
  "tileheight":20,
  "tilesets":[
         {
