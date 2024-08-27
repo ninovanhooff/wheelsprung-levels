@@ -307,21 +307,21 @@
          "name":"physics",
          "objects":[
                 {
-                 "height":5,
+                 "height":10,
                  "id":53,
                  "name":"rectRect",
                  "properties":[
                         {
                          "name":"massMultiplier",
                          "type":"float",
-                         "value":1.2
+                         "value":0.5
                         }],
                  "rotation":0,
                  "type":"DynamicObject",
                  "visible":true,
                  "width":140,
-                 "x":360,
-                 "y":190
+                 "x":359,
+                 "y":184
                 }],
          "opacity":1,
          "type":"objectgroup",

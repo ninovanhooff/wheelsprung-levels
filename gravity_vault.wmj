@@ -290,9 +290,9 @@
                  "rotation":90,
                  "type":"DynamicObject",
                  "visible":true,
-                 "width":120,
-                 "x":325,
-                 "y":239
+                 "width":140,
+                 "x":326,
+                 "y":220
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -304,7 +304,7 @@
  "nextobjectid":88,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.0",
  "tileheight":20,
  "tilesets":[
         {
