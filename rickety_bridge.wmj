@@ -153,8 +153,8 @@
                  "type":"",
                  "visible":true,
                  "width":20,
-                 "x":752,
-                 "y":135
+                 "x":1180,
+                 "y":120
                 }, 
                 {
                  "height":0,
@@ -428,6 +428,26 @@
                  "width":0,
                  "x":1800,
                  "y":100
+                }, 
+                {
+                 "height":0,
+                 "id":109,
+                 "name":"BridgePartCatcher",
+                 "polyline":[
+                        {
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "x":620,
+                         "y":0
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":595,
+                 "y":430
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -510,7 +530,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":109,
+ "nextobjectid":110,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.0",
