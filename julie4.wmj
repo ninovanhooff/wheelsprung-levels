@@ -294,7 +294,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"C:\/Users\/bjrns\/Documents\/PlaydateSDK\/Disk\/Data\/editor\/game_objects.tsj"
+         "source":"..\/..\/editor\/game_objects.tsj"
         }],
  "tilewidth":20,
  "type":"map",
