@@ -268,7 +268,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/..\/..\/..\/codeProjects\/wheelsprung\/support\/editor\/game_objects.tsj"
+         "source":"..\/..\/..\/..\/..\/..\/codeProjects\/wheelsprung\/editor\/game_objects.tsj"
         }],
  "tilewidth":20,
  "type":"map",
