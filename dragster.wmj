@@ -82,15 +82,15 @@
          "objects":[
                 {
                  "gid":1,
-                 "height":60,
+                 "height":80,
                  "id":2,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":66,
-                 "x":60,
-                 "y":75
+                 "width":80,
+                 "x":50,
+                 "y":55
                 }, 
                 {
                  "gid":4,

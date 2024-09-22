@@ -341,15 +341,15 @@
          "objects":[
                 {
                  "gid":1,
-                 "height":60,
-                 "id":2,
+                 "height":80,
+                 "id":123,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":66,
-                 "x":159,
-                 "y":380
+                 "width":80,
+                 "x":180,
+                 "y":360
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -358,10 +358,10 @@
          "y":0
         }],
  "nextlayerid":8,
- "nextobjectid":123,
+ "nextobjectid":124,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.0",
  "tileheight":20,
  "tilesets":[
         {

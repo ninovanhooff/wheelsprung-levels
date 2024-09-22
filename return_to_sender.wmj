@@ -17,15 +17,15 @@
          "objects":[
                 {
                  "gid":1,
-                 "height":60,
+                 "height":80,
                  "id":29,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":66,
-                 "x":320,
-                 "y":300
+                 "width":80,
+                 "x":310,
+                 "y":280
                 }, 
                 {
                  "height":0,
@@ -268,7 +268,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/..\/..\/..\/codeProjects\/wheelsprung\/editor\/game_objects.tsj"
+         "source":"..\/..\/editor\/game_objects.tsj"
         }],
  "tilewidth":20,
  "type":"map",

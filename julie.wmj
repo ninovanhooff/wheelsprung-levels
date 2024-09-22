@@ -14,7 +14,19 @@
          "draworder":"topdown",
          "id":2,
          "name":"jumps",
-         "objects":[],
+         "objects":[
+                {
+                 "gid":1,
+                 "height":80,
+                 "id":26,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":80,
+                 "x":5,
+                 "y":215
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -223,18 +235,6 @@
                  "y":212
                 }, 
                 {
-                 "gid":1,
-                 "height":60,
-                 "id":2,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":66,
-                 "x":1,
-                 "y":219
-                }, 
-                {
                  "gid":4,
                  "height":38,
                  "id":3,
@@ -289,7 +289,7 @@
          "y":0
         }],
  "nextlayerid":6,
- "nextobjectid":26,
+ "nextobjectid":27,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.0",

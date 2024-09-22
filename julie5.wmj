@@ -52,18 +52,6 @@
          "name":"objects",
          "objects":[
                 {
-                 "gid":1,
-                 "height":60,
-                 "id":2,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":66,
-                 "x":20,
-                 "y":120
-                }, 
-                {
                  "height":0,
                  "id":105,
                  "name":"",
@@ -182,42 +170,6 @@
                  "width":0,
                  "x":720,
                  "y":160
-                }, 
-                {
-                 "gid":3,
-                 "height":20,
-                 "id":111,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":20,
-                 "x":683,
-                 "y":199
-                }, 
-                {
-                 "gid":3,
-                 "height":20,
-                 "id":112,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":20,
-                 "x":420,
-                 "y":220
-                }, 
-                {
-                 "gid":3,
-                 "height":20,
-                 "id":113,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":20,
-                 "x":460,
-                 "y":220
                 }, 
                 {
                  "height":0,
@@ -478,6 +430,18 @@
                  "width":20,
                  "x":1410,
                  "y":65
+                }, 
+                {
+                 "gid":1,
+                 "height":80,
+                 "id":153,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":80,
+                 "x":30,
+                 "y":155
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -490,27 +454,7 @@
          "draworder":"topdown",
          "id":6,
          "name":"Support",
-         "objects":[
-                {
-                 "height":0,
-                 "id":143,
-                 "name":"BookCatcher",
-                 "polyline":[
-                        {
-                         "x":0,
-                         "y":0
-                        }, 
-                        {
-                         "x":380,
-                         "y":0
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":1380,
-                 "y":220
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -518,7 +462,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":151,
+ "nextobjectid":154,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.0",

@@ -17,18 +17,6 @@
          "name":"terrain",
          "objects":[
                 {
-                 "gid":1,
-                 "height":60,
-                 "id":2,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":66,
-                 "x":367,
-                 "y":58
-                }, 
-                {
                  "gid":1073741828,
                  "height":38,
                  "id":3,
@@ -79,6 +67,18 @@
                  "width":20,
                  "x":40,
                  "y":75
+                }, 
+                {
+                 "gid":1,
+                 "height":80,
+                 "id":16,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":80,
+                 "x":360,
+                 "y":35
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -87,10 +87,10 @@
          "y":0
         }],
  "nextlayerid":6,
- "nextobjectid":16,
+ "nextobjectid":17,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.0",
  "tileheight":20,
  "tilesets":[
         {
