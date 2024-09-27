@@ -11,6 +11,16 @@
  "infinite":false,
  "layers":[
         {
+         "id":8,
+         "image":"looping.png",
+         "name":"Background",
+         "opacity":1,
+         "type":"imagelayer",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "color":"#73fa79",
          "draworder":"topdown",
          "id":2,
@@ -678,7 +688,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":8,
+ "nextlayerid":9,
  "nextobjectid":66,
  "orientation":"orthogonal",
  "renderorder":"right-down",
