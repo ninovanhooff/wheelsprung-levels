@@ -11,6 +11,16 @@
  "infinite":false,
  "layers":[
         {
+         "id":6,
+         "image":"backflip.png",
+         "name":"Background",
+         "opacity":1,
+         "type":"imagelayer",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "color":"#ff9300",
          "draworder":"topdown",
          "id":2,
@@ -195,7 +205,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":6,
+ "nextlayerid":7,
  "nextobjectid":38,
  "orientation":"orthogonal",
  "renderorder":"right-down",

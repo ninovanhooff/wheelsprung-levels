@@ -11,6 +11,16 @@
  "infinite":false,
  "layers":[
         {
+         "id":6,
+         "image":"hills.png",
+         "name":"Background",
+         "opacity":1,
+         "type":"imagelayer",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "color":"#ff9300",
          "draworder":"topdown",
          "id":2,
@@ -505,7 +515,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":6,
+ "nextlayerid":7,
  "nextobjectid":45,
  "orientation":"orthogonal",
  "renderorder":"right-down",

@@ -10,6 +10,16 @@
  "infinite":false,
  "layers":[
         {
+         "id":8,
+         "image":"tutorial_gravity.png",
+         "name":"Background",
+         "opacity":1,
+         "type":"imagelayer",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "draworder":"topdown",
          "id":7,
          "locked":true,
@@ -357,7 +367,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":8,
+ "nextlayerid":9,
  "nextobjectid":124,
  "orientation":"orthogonal",
  "renderorder":"right-down",

@@ -10,6 +10,16 @@
  "infinite":false,
  "layers":[
         {
+         "id":8,
+         "image":"globe_of_death.png",
+         "name":"Background",
+         "opacity":1,
+         "type":"imagelayer",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "draworder":"topdown",
          "id":7,
          "name":"references",
@@ -506,7 +516,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":8,
+ "nextlayerid":9,
  "nextobjectid":62,
  "orientation":"orthogonal",
  "renderorder":"right-down",

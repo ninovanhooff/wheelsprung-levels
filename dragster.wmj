@@ -11,6 +11,16 @@
  "infinite":false,
  "layers":[
         {
+         "id":6,
+         "image":"dragster.png",
+         "name":"Background",
+         "opacity":1,
+         "type":"imagelayer",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "color":"#ff9300",
          "draworder":"topdown",
          "id":2,
@@ -230,11 +240,11 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":6,
+ "nextlayerid":7,
  "nextobjectid":29,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.0",
  "tileheight":20,
  "tilesets":[
         {

@@ -10,6 +10,16 @@
  "infinite":false,
  "layers":[
         {
+         "id":7,
+         "image":"tutorial_brake.png",
+         "name":"Background",
+         "opacity":1,
+         "type":"imagelayer",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "color":"#7a81ff",
          "draworder":"topdown",
          "id":5,
@@ -177,7 +187,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":7,
+ "nextlayerid":8,
  "nextobjectid":111,
  "orientation":"orthogonal",
  "renderorder":"right-down",

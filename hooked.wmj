@@ -11,6 +11,16 @@
  "infinite":false,
  "layers":[
         {
+         "id":6,
+         "image":"hooked.png",
+         "name":"Background",
+         "opacity":1,
+         "type":"imagelayer",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "color":"#73fa79",
          "draworder":"topdown",
          "id":3,
@@ -86,7 +96,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":6,
+ "nextlayerid":7,
  "nextobjectid":17,
  "orientation":"orthogonal",
  "renderorder":"right-down",
