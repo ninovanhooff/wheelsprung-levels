@@ -11,7 +11,6 @@
  "infinite":false,
  "layers":[
         {
-         "class":"Reference",
          "id":8,
          "image":"looping.png",
          "name":"Background",
@@ -715,8 +714,8 @@
                  "type":"",
                  "visible":true,
                  "width":20,
-                 "x":119,
-                 "y":303
+                 "x":1460,
+                 "y":579
                 }, 
                 {
                  "gid":4,
