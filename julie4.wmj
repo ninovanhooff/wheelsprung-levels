@@ -6,10 +6,11 @@
          "format":"json"
         }
     },
- "height":40,
+ "height":38,
  "infinite":false,
  "layers":[
         {
+         "color":"#73fa79",
          "draworder":"topdown",
          "id":3,
          "name":"objects",
@@ -104,7 +105,7 @@
                  "y":679
                 }, 
                 {
-                 "height":882,
+                 "height":900,
                  "id":94,
                  "name":"",
                  "rotation":0,
@@ -115,7 +116,7 @@
                  "y":-105
                 }, 
                 {
-                 "height":866,
+                 "height":875,
                  "id":95,
                  "name":"",
                  "rotation":0,
@@ -134,8 +135,8 @@
                  "type":"",
                  "visible":true,
                  "width":20,
-                 "x":241,
-                 "y":139
+                 "x":240,
+                 "y":150
                 }, 
                 {
                  "gid":2,
@@ -159,7 +160,7 @@
                  "visible":true,
                  "width":20,
                  "x":60,
-                 "y":300
+                 "y":310
                 }, 
                 {
                  "gid":2,
@@ -255,7 +256,19 @@
                  "width":20,
                  "x":60,
                  "y":420
-                }, 
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "color":"#7a81ff",
+         "draworder":"topdown",
+         "id":6,
+         "name":"corner triangles",
+         "objects":[
                 {
                  "height":0,
                  "id":108,
@@ -279,6 +292,102 @@
                  "width":0,
                  "x":40,
                  "y":580
+                }, 
+                {
+                 "height":0,
+                 "id":109,
+                 "name":"",
+                 "polygon":[
+                        {
+                         "x":20,
+                         "y":0
+                        }, 
+                        {
+                         "x":20,
+                         "y":-20
+                        }, 
+                        {
+                         "x":0,
+                         "y":0
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":360,
+                 "y":680
+                }, 
+                {
+                 "height":0,
+                 "id":110,
+                 "name":"",
+                 "polygon":[
+                        {
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "x":-20,
+                         "y":-20
+                        }, 
+                        {
+                         "x":-20,
+                         "y":0
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":40,
+                 "y":340
+                }, 
+                {
+                 "height":0,
+                 "id":111,
+                 "name":"",
+                 "polygon":[
+                        {
+                         "x":20,
+                         "y":0
+                        }, 
+                        {
+                         "x":20,
+                         "y":-20
+                        }, 
+                        {
+                         "x":0,
+                         "y":0
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":360,
+                 "y":480
+                }, 
+                {
+                 "height":0,
+                 "id":112,
+                 "name":"",
+                 "polygon":[
+                        {
+                         "x":20,
+                         "y":0
+                        }, 
+                        {
+                         "x":20,
+                         "y":-20
+                        }, 
+                        {
+                         "x":0,
+                         "y":0
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":360,
+                 "y":180
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -286,8 +395,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":6,
- "nextobjectid":109,
+ "nextlayerid":7,
+ "nextobjectid":113,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.0",
