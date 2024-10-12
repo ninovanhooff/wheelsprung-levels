@@ -6,7 +6,7 @@
          "format":"json"
         }
     },
- "height":38,
+ "height":42,
  "infinite":false,
  "layers":[
         {
@@ -24,7 +24,7 @@
                  "visible":true,
                  "width":120,
                  "x":80,
-                 "y":80
+                 "y":160
                 }, 
                 {
                  "height":20,
@@ -35,7 +35,7 @@
                  "visible":true,
                  "width":179,
                  "x":200,
-                 "y":180
+                 "y":260
                 }, 
                 {
                  "height":20,
@@ -46,7 +46,7 @@
                  "visible":true,
                  "width":161,
                  "x":120,
-                 "y":240
+                 "y":320
                 }, 
                 {
                  "height":20,
@@ -57,7 +57,7 @@
                  "visible":true,
                  "width":100,
                  "x":20,
-                 "y":340
+                 "y":420
                 }, 
                 {
                  "height":20,
@@ -68,7 +68,7 @@
                  "visible":true,
                  "width":210,
                  "x":170,
-                 "y":480
+                 "y":560
                 }, 
                 {
                  "height":20,
@@ -79,7 +79,7 @@
                  "visible":true,
                  "width":120,
                  "x":120,
-                 "y":380
+                 "y":460
                 }, 
                 {
                  "height":20,
@@ -90,7 +90,7 @@
                  "visible":true,
                  "width":120,
                  "x":20,
-                 "y":740
+                 "y":820
                 }, 
                 {
                  "gid":4,
@@ -102,7 +102,7 @@
                  "visible":true,
                  "width":38,
                  "x":41,
-                 "y":679
+                 "y":759
                 }, 
                 {
                  "height":900,
@@ -113,7 +113,7 @@
                  "visible":true,
                  "width":60,
                  "x":-40,
-                 "y":-105
+                 "y":-25
                 }, 
                 {
                  "height":875,
@@ -124,7 +124,7 @@
                  "visible":true,
                  "width":29,
                  "x":380,
-                 "y":-80
+                 "y":0
                 }, 
                 {
                  "gid":2,
@@ -136,7 +136,7 @@
                  "visible":true,
                  "width":20,
                  "x":240,
-                 "y":150
+                 "y":230
                 }, 
                 {
                  "gid":2,
@@ -148,7 +148,7 @@
                  "visible":true,
                  "width":20,
                  "x":160,
-                 "y":200
+                 "y":280
                 }, 
                 {
                  "gid":2,
@@ -160,7 +160,7 @@
                  "visible":true,
                  "width":20,
                  "x":60,
-                 "y":310
+                 "y":390
                 }, 
                 {
                  "gid":2,
@@ -172,7 +172,7 @@
                  "visible":true,
                  "width":20,
                  "x":180,
-                 "y":350
+                 "y":430
                 }, 
                 {
                  "gid":2,
@@ -184,7 +184,7 @@
                  "visible":true,
                  "width":20,
                  "x":300,
-                 "y":450
+                 "y":530
                 }, 
                 {
                  "height":20,
@@ -195,7 +195,7 @@
                  "visible":true,
                  "width":180,
                  "x":20,
-                 "y":580
+                 "y":660
                 }, 
                 {
                  "height":20,
@@ -206,7 +206,7 @@
                  "visible":true,
                  "width":200,
                  "x":180,
-                 "y":680
+                 "y":760
                 }, 
                 {
                  "gid":2,
@@ -218,7 +218,7 @@
                  "visible":true,
                  "width":20,
                  "x":70,
-                 "y":550
+                 "y":630
                 }, 
                 {
                  "gid":2,
@@ -230,7 +230,7 @@
                  "visible":true,
                  "width":20,
                  "x":305,
-                 "y":650
+                 "y":730
                 }, 
                 {
                  "gid":1,
@@ -242,7 +242,7 @@
                  "visible":true,
                  "width":80,
                  "x":95,
-                 "y":0
+                 "y":80
                 },
             
                 {
@@ -255,7 +255,7 @@
                  "visible":true,
                  "width":20,
                  "x":60,
-                 "y":420
+                 "y":500
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -291,7 +291,7 @@
                  "visible":true,
                  "width":0,
                  "x":40,
-                 "y":580
+                 "y":660
                 }, 
                 {
                  "height":0,
@@ -315,7 +315,7 @@
                  "visible":true,
                  "width":0,
                  "x":360,
-                 "y":680
+                 "y":760
                 }, 
                 {
                  "height":0,
@@ -339,7 +339,7 @@
                  "visible":true,
                  "width":0,
                  "x":40,
-                 "y":340
+                 "y":420
                 }, 
                 {
                  "height":0,
@@ -363,7 +363,7 @@
                  "visible":true,
                  "width":0,
                  "x":360,
-                 "y":480
+                 "y":560
                 }, 
                 {
                  "height":0,
@@ -387,7 +387,7 @@
                  "visible":true,
                  "width":0,
                  "x":360,
-                 "y":180
+                 "y":260
                 }],
          "opacity":1,
          "type":"objectgroup",

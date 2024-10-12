@@ -307,20 +307,21 @@
          "name":"physics",
          "objects":[
                 {
-                 "height":10,
-                 "id":53,
-                 "name":"rectRect",
+                 "gid":9,
+                 "height":140,
+                 "id":69,
+                 "name":"",
                  "properties":[
                         {
                          "name":"massMultiplier",
                          "type":"float",
                          "value":0.5
                         }],
-                 "rotation":0,
-                 "type":"DynamicObject",
+                 "rotation":90,
+                 "type":"",
                  "visible":true,
-                 "width":140,
-                 "x":359,
+                 "width":10,
+                 "x":499,
                  "y":184
                 }],
          "opacity":1,
@@ -330,7 +331,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":69,
+ "nextobjectid":70,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.0",

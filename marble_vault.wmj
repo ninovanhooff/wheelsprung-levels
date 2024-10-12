@@ -34,7 +34,7 @@
                  "text":
                     {
                      "halign":"center",
-                     "text":"White objects can be moved",
+                     "text":"Move the marble",
                      "wrap":true
                     },
                  "type":"",
@@ -249,11 +249,11 @@
                         }, 
                         {
                          "x":-16,
-                         "y":20
+                         "y":19
                         }, 
                         {
                          "x":69,
-                         "y":20
+                         "y":19
                         }, 
                         {
                          "x":69,
@@ -379,7 +379,7 @@
                  "visible":true,
                  "width":8,
                  "x":445,
-                 "y":220
+                 "y":219
                 }, 
                 {
                  "height":0,
@@ -452,28 +452,6 @@
          "name":"DynamicOnjects",
          "objects":[
                 {
-                 "height":134,
-                 "id":48,
-                 "name":"vault_door",
-                 "properties":[
-                        {
-                         "name":"friction",
-                         "type":"float",
-                         "value":0.1
-                        }, 
-                        {
-                         "name":"massMultiplier",
-                         "type":"float",
-                         "value":2.5
-                        }],
-                 "rotation":0,
-                 "type":"DynamicObject",
-                 "visible":true,
-                 "width":10,
-                 "x":435,
-                 "y":225
-                }, 
-                {
                  "ellipse":true,
                  "height":20,
                  "id":88,
@@ -490,6 +468,29 @@
                  "width":20,
                  "x":320,
                  "y":180
+                }, 
+                {
+                 "gid":9,
+                 "height":140,
+                 "id":104,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"friction",
+                         "type":"float",
+                         "value":0.1
+                        }, 
+                        {
+                         "name":"massMultiplier",
+                         "type":"float",
+                         "value":2.5
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":10,
+                 "x":435,
+                 "y":220
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -498,7 +499,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":104,
+ "nextobjectid":105,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.0",
