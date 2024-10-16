@@ -33,7 +33,7 @@
                  "name":"",
                  "rotation":0,
                  "type":"",
-                 "visible":true,
+                 "visible":false,
                  "width":675,
                  "x":291,
                  "y":334
@@ -45,7 +45,7 @@
                  "name":"",
                  "rotation":0,
                  "type":"",
-                 "visible":true,
+                 "visible":false,
                  "width":675,
                  "x":941,
                  "y":414
@@ -436,6 +436,22 @@
                  "width":20,
                  "x":160,
                  "y":100
+                }, 
+                {
+                 "height":116,
+                 "id":138,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"If this shape to the left of the rider does not fit the theme, it can also be something else. As long as it has an interesting spot for an acorn and can be used to make some speed.",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":224,
+                 "x":-226,
+                 "y":-32
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -444,7 +460,7 @@
          "y":0
         }],
  "nextlayerid":8,
- "nextobjectid":138,
+ "nextobjectid":139,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.0",
