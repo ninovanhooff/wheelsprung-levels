@@ -34,7 +34,7 @@
                  "name":"",
                  "rotation":0,
                  "type":"",
-                 "visible":true,
+                 "visible":false,
                  "width":140,
                  "x":2079,
                  "y":195
@@ -517,8 +517,8 @@
                  "name":"",
                  "polyline":[
                         {
-                         "x":-96,
-                         "y":-37
+                         "x":-147,
+                         "y":-27
                         }, 
                         {
                          "x":166,
@@ -537,6 +537,10 @@
                  "name":"",
                  "polyline":[
                         {
+                         "x":-40,
+                         "y":-95
+                        }, 
+                        {
                          "x":0,
                          "y":0
                         }, 
@@ -550,6 +554,22 @@
                  "width":0,
                  "x":1180,
                  "y":335
+                }, 
+                {
+                 "height":19,
+                 "id":169,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"The shape of this barrier does't matter",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":290,
+                 "x":1061,
+                 "y":346
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -570,7 +590,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":169,
+ "nextobjectid":170,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.0",
