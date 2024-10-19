@@ -217,15 +217,15 @@
                 }, 
                 {
                  "ellipse":true,
-                 "height":38,
+                 "height":40,
                  "id":34,
                  "name":"",
                  "rotation":0,
                  "type":"DynamicObject",
                  "visible":true,
-                 "width":38,
+                 "width":40,
                  "x":779,
-                 "y":125
+                 "y":124
                 }, 
                 {
                  "gid":4,
