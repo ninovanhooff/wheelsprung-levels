@@ -16,7 +16,7 @@
          "name":"Background",
          "opacity":1,
          "type":"imagelayer",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -26,40 +26,6 @@
          "id":5,
          "name":"helpers",
          "objects":[
-                {
-                 "height":19,
-                 "id":108,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "halign":"center",
-                     "text":"Press \u2b07\ufe0f to turn around",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":175,
-                 "x":595,
-                 "y":60
-                }, 
-                {
-                 "height":38,
-                 "id":110,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "halign":"center",
-                     "text":"Collect all coins\nto activate",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":175,
-                 "x":180,
-                 "y":40
-                }, 
                 {
                  "gid":2,
                  "height":20,
