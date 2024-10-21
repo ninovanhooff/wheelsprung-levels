@@ -22,6 +22,18 @@
          "y":0
         }, 
         {
+         "class":"HintsBackgroundLayer",
+         "id":9,
+         "image":"looping_hints.png",
+         "name":"HintsBackground",
+         "opacity":1,
+         "tintcolor":"#4d7a81ff",
+         "type":"imagelayer",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "color":"#73fa79",
          "draworder":"topdown",
          "id":2,
@@ -774,7 +786,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":9,
+ "nextlayerid":10,
  "nextobjectid":68,
  "orientation":"orthogonal",
  "renderorder":"right-down",
